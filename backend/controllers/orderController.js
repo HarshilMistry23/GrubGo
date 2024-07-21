@@ -7,7 +7,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
 //Placing user order from frontend
 const placeOrder = async(req,res)=>{
 
-    const frontend_url = "http://localhost:5173"
+    const frontend_url = "https://grubgo-frontend-8ttz.onrender.com"
 
     try {
         const newOrder = new orderModel({
