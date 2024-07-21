@@ -18,3 +18,8 @@ GrubGo is a robust and intuitive platform designed to streamline the ordering pr
 - **Database:** MongoDB, Mongoose
 - **Authentication:** bcrypt.js, JSON Web Tokens (JWT)
 - **Payment Gateway:** Stripe
+<img width= 400 height=300 src='https://github.com/user-attachments/assets/356876f1-cafa-43ba-b045-e71e7bef7425'>
+<img width= 400 height=300 src='https://github.com/user-attachments/assets/bc96d9d0-50b1-4979-9a8c-8224b3f40e36'>
+<img width= 400 height=300 src='https://github.com/user-attachments/assets/f993b5af-5da4-4339-9081-1d25fa064e37'>
+<img width= 400 height=300 src='https://github.com/user-attachments/assets/841b6b6c-4789-429c-b7dc-10ced07a76e5'>
+
