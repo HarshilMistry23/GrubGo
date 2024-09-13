@@ -2,6 +2,8 @@
 
 GrubGo is a robust and intuitive platform designed to streamline the ordering process for restaurant customers and simplify restaurant management. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), GrubGo offers a seamless user experience for both customers and restaurant owners.
 
+Website Link - https://grubgo-frontend-8ttz.onrender.com
+
 ## Features
 
 - **User-Friendly Interface:** Developed with React.js and styled using CSS to ensure a smooth and pleasant user experience.
