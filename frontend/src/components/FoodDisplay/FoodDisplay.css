@@ -12,3 +12,22 @@
     gap: 30px;
     row-gap: 50px;
 }
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Adjust the height to center vertically */
+}
+.spinner{   
+    width: 100px;
+    height: 100px;
+    border: 5px solid #bdbdbd;
+    border-top-color:tomato;
+    border-radius: 50%;
+    animation: rotate 1s infinite;
+}
+@keyframes rotate {
+    100%{
+        transform: rotate(360deg);
+    }
+}
